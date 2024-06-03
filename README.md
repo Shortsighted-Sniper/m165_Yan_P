@@ -2,7 +2,7 @@
 
 ## A:
 
-![](./A/mongo.png)
+![./A/mongo.png]()
 
 Mit authpass sage ich, welche collection für authentication benutzt wird. By default ist es das 'admin' collection
 
