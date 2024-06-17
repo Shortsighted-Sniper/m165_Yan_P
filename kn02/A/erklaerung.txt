@@ -1,0 +1,5 @@
+Publisher <-1------M-> Game
+Game      <-M------1-> Franchise
+Game      <-M------M-> Developer
+Franchise <-M------1-> Studio
+Developer <-M------1-> Studio

@@ -1,0 +1,3 @@
+Es macht so Sinn, weil wenn ich das nicht gemacht hätte, 
+müsste ich in jedem Game noch eine zusätzliche Variabel hinzufügen, 
+welche den ID vom Studio speichern würde würde. Ich speichere so Speicherplatz.
