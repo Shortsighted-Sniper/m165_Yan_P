@@ -15,7 +15,7 @@ Developer <-many-to-one->  Studio
 
 ![drawio](https://github.com/Shortsighted-Sniper/m165_Yan_P/assets/112621366/f43705ef-71de-414f-8fdf-c73f6ba38529)
 
-bei der 1 zu 1 beziehung habe ich das Invoice im Orders verschachtelt, da es nur dort referenziert wird und das invoice wird immer mit einem Order verknüpft.
+Es macht so Sinn, weil wenn ich das nicht gemacht hätte, müsste ich in jedem Game noch eine zusätzliche Variabel hinzufügen, welche den ID vom Studio speichern würde würde. Ich speichere so Speicherplatz.
 
 ## C)
 
