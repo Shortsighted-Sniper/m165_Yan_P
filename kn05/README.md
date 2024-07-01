@@ -46,7 +46,7 @@ db.createUser({
 
 ### Replication
 
-Replication it duplication of DBs. It is relativly easy to do and allows the data to stay available and secure. Some problems may arrize with a large amount of requests, since that can cause the DB to slow down substentually.
+Replication is duplication of DBs. It is relatively easy to do and allows the data to stay available and secure. Some problems may arrize with a large amount of requests, since that can cause the DB to slow down substentually.
 
 ![replication](https://github.com/Shortsighted-Sniper/m165_Yan_P/assets/112621366/b1687d66-dacf-407c-addd-7a4239d670a8)
 
@@ -58,4 +58,4 @@ Partitioning takes one table / collection and devides it in mutliple smaller one
 
 ### Recomendation for my Company
 
-For my company I would recommend "Replication" since it's easie to do than Partitioning and I wouldn't expect a large amount of requests all at once.
+For my company I would recommend "Replication" since it's easier to do than Partitioning and I wouldn't expect a large amount of requests all at once.
